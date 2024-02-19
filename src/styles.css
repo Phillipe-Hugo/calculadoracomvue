@@ -1,0 +1,26 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+  }
+
+  .label {
+    background-color: aqua;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .label1 {
+    background-color: rgb(166, 162, 170);
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .respotlabe {
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: rgb(228, 228, 33);
+  }
